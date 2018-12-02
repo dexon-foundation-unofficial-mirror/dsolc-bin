@@ -9,6 +9,17 @@
       "urls": [
         "bzzr://0168d933156deeaca51460da96f1aa83deb125d7f9b4c7fbcdf4ab74596eaf94"
       ]
+    },
+    {
+      "path": "soljson-v0.5.0-nightly.2018.11.21+commit.366fa976.js",
+      "version": "0.5.0",
+      "prerelease": "nightly.2018.11.21",
+      "build": "commit.366fa976",
+      "longVersion": "0.5.0-nightly.2018.11.21+commit.366fa976",
+      "keccak256": "0x158410108a6d4be82b3d2f3c0ed8ada52bfb4fda583d01c624f40a6766d2f568",
+      "urls": [
+        "bzzr://4e020a9ebf0e927308bac42a524894538a90c8afea5dc47910cbe7c560e0e30c"
+      ]
     }
   ],
   "releases": {
